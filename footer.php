@@ -38,11 +38,7 @@
 		            <!-- copyright -->
 		            <div class="col-md-8 col-md-pull-4">
 		                <div class="footer-copyright">
-<<<<<<< HEAD
 		                    <span>&copy; Copyright 2024-25. All Rights Reserved. </span>
-=======
-		                    <span>&copy; Copyright 2025. All Rights Reserved. </span>
->>>>>>> 168016a6cbd31cd3db01cefe26d33a75c87dd96e
 		                </div>
 		            </div>
 		            <!-- /copyright -->

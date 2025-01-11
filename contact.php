@@ -57,13 +57,8 @@ session_start();
             <div class="col-md-5 col-md-offset-1">
                 <h4>Contact Information</h4>
                 <ul class="contact-details">
-<<<<<<< HEAD
                     <li><i class="fa fa-envelope"></i> contact@aspire.com</li>
                     <li><i class="fa fa-phone"></i>+91 9580689669, 8808109748</li>
-=======
-                    <li><i class="fa fa-envelope"></i>contact@aspirebridge.com</li>
-                    <li><i class="fa fa-phone"></i>122-547-223-45</li>
->>>>>>> 168016a6cbd31cd3db01cefe26d33a75c87dd96e
                     <li><i class="fa fa-map-marker"></i>Lucknow, Uttar Pradesh, India</li>
                 </ul>
 
@@ -117,11 +112,8 @@ session_start();
             <!-- copyright -->
             <div class="col-md-8 col-md-pull-4">
                 <div class="footer-copyright">
-<<<<<<< HEAD
                     <span>&copy; Copyright 2024-25. All Rights Reserved. </span>
-=======
-                    <span>&copy; Copyright 2021. All Rights Reserved. </span>
->>>>>>> 168016a6cbd31cd3db01cefe26d33a75c87dd96e
+
                 </div>
             </div>
             <!-- /copyright -->
