@@ -40,7 +40,7 @@ h1,h2,h3{
   transition: 0.7s;
   display: block;
   width: 100%;
-  -webkit-animation: bar-before 1 1.8s;
+  animation: bar-before 1 1.8s;
   position: absolute;
   top: 0;
   left: 0;
@@ -67,7 +67,7 @@ h1,h2,h3{
 .bar6::after{
   max-width: 10%;
 }
-@-webkit-keyframes bar-before{
+@keyframes bar-before{
   0%{
     width: 0px;
   }
